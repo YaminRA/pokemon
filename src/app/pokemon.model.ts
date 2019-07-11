@@ -1,0 +1,8 @@
+export class Pokemon {
+  id: number;
+  name: string;
+  sprite: string;
+
+  constructor() {}
+
+}
